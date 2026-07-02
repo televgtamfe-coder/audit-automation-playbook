@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit Automation Playbook"
+  short_description: "Build reusable AI audit automation plans"
+  default_prompt: "Use $audit-automation-playbook to turn an audit or quality-review process into a costed automation rollout plan."
