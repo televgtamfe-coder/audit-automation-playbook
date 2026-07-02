@@ -1,4 +1,5 @@
 ---
+license: MIT
 name: audit-automation-playbook
 description: Create reusable AI audit, quality-review, compliance-review, content-moderation, customer-service QA, or order-review automation plans. Use when Codex needs to convert an existing manual review process into a rule + LLM + human-review workflow, produce cost/ROI comparisons across pure manual, domestic model, overseas model, and hybrid model options, define rollout gates, calibrate rubrics, or prepare a release-ready project playbook/document.
 ---
